@@ -1,3 +1,4 @@
 # Simple-Calculator
 This calculator was made with HTML, CSS and Javascript. 
-<img width="717" alt="image" src="https://user-images.githubusercontent.com/112285076/215835666-dc60582d-0be6-49cf-aa83-dbc8d5f34c22.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/112285076/215835800-fb661b0f-7e19-4ce2-8c9d-db3d3267c108.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/112285076/215835960-41e1da3b-4689-48b3-8645-20ae3654fe0f.png">
